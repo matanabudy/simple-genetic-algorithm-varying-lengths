@@ -1,4 +1,4 @@
-# Simple Genetic Algorithm with Varying Lengths
+# 🧬 Simple Genetic Algorithm with Varying Lengths
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 
